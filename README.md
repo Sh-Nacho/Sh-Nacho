@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sh-Nacho
-- 👀 I’m interested in learn & code
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hello World, I’m @Sh-Nacho
+- 👀 I’m interested learn & code
+- 🌱 I’m currently learning React & JavaScript
+- 💞️ I’m looking to collaborate with everybody :)
 - 📫 Reach me writing to ignaciomellab@gmail.com
 
 <!---
